@@ -11,7 +11,7 @@ else:
 count = 0
 no = 5
 
-for i in range(2, no):
+for i in range(2, no+1):
     if no%i==0:
         count +=1
     
